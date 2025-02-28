@@ -1,4 +1,4 @@
-## Hi there 👋
+## 𝐻𝑒𝓁𝓁☯, 𝐼'𝓂 𝒫𝓇𝒶𝓈𝒽𝒶𝓃𝒶 𝒮𝒽𝓇𝑒𝓈𝓉𝒽𝒶 👋
 
 <!--
 **prashana-sht/prashana-sht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=prashana-sht)
 
 - ⚡ Fun fact **I love sleeping.**
