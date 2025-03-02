@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=prashana-sht)
 
 - ⚡ Fun fact **I love sleeping.**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashana-sht&hide_progress=true)
