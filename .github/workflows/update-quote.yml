@@ -1,0 +1,29 @@
+name: Update Quote of the Day
+
+on:
+  schedule:
+    - cron: "15 0 * * *" # 6:00 AM Nepal Time (UTC+5:45)
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Update Quote
+        run: node scripts/update-quote.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "docs: update daily quote"

@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 💭 Quote of the Day
+
+<!--START_SECTION:quote-->
+> Loading today's quote...
+>
+> — Unknown
+<!--END_SECTION:quote-->
