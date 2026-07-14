@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Loading today's quote...
+> Pain doesn't last. And when it's gone, we have something to show for it. Growth.
 >
-> — Unknown
+> — Kamal Ravikant
 <!--END_SECTION:quote-->
