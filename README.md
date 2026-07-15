@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Pain doesn't last. And when it's gone, we have something to show for it. Growth.
+> There's no next time. It's now or never.
 >
-> — Kamal Ravikant
+> — Celestine Chua
 <!--END_SECTION:quote-->
