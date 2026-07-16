@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> There's no next time. It's now or never.
+> Knowing others is wisdom, knowing yourself is enlightenment.
 >
-> — Celestine Chua
+> — Lao Tzu
 <!--END_SECTION:quote-->
