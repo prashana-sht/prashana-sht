@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Knowing others is wisdom, knowing yourself is enlightenment.
+> Death and life have their determined appointments; riches and honors depend upon heaven.
 >
-> — Lao Tzu
+> — Confucius
 <!--END_SECTION:quote-->
