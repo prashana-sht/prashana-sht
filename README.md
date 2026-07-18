@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Death and life have their determined appointments; riches and honors depend upon heaven.
+> Would you rather live your life according to the approval of others or aligned with your truth and your dreams?
 >
-> — Confucius
+> — Robin Sharma
 <!--END_SECTION:quote-->
