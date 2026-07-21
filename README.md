@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> An action committed in anger is an action doomed to failure.
+> Do Something. If it works, do more of it. If it doesn't, do something else.
 >
-> — Genghis Khan
+> — Franklin D. Roosevelt
 <!--END_SECTION:quote-->
