@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Do Something. If it works, do more of it. If it doesn't, do something else.
+> Nothing makes a man broad-minded like adversity.
 >
-> — Franklin D. Roosevelt
+> — Will Rogers
 <!--END_SECTION:quote-->
