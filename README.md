@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Nothing makes a man broad-minded like adversity.
+> You have the potential for greatness.
 >
-> — Will Rogers
+> — Steve Harvey
 <!--END_SECTION:quote-->
