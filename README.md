@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> You have the potential for greatness.
+> Change is hard at first, messy in the middle and gorgeous at the end.
 >
-> — Steve Harvey
+> — Robin Sharma
 <!--END_SECTION:quote-->
