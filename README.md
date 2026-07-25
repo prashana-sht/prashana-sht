@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Change is hard at first, messy in the middle and gorgeous at the end.
+> It is amazing what you can accomplish if you do not care who gets the credit.
 >
-> — Robin Sharma
+> — Harry S. Truman
 <!--END_SECTION:quote-->
