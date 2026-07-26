@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> It is amazing what you can accomplish if you do not care who gets the credit.
+> Let us rather run the risk of wearing out than rusting out.
 >
-> — Harry S. Truman
+> — Theodore Roosevelt
 <!--END_SECTION:quote-->
