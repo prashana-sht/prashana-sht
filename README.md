@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Let us rather run the risk of wearing out than rusting out.
+> But better die than live mechanically a life that is a repetition of repetitions.
 >
-> — Theodore Roosevelt
+> — D. H. Lawrence
 <!--END_SECTION:quote-->
