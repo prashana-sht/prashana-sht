@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> But better die than live mechanically a life that is a repetition of repetitions.
+> Be kind, for everyone you meet is fighting a harder battle.
 >
-> — D. H. Lawrence
+> — Plato
 <!--END_SECTION:quote-->
