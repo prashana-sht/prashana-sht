@@ -1,4 +1,4 @@
-## 𝐻𝑒𝓁𝓁☯, 𝐼'𝓂 𝒫𝓇𝒶𝓈𝒽𝒶𝓃𝒶 𝒮𝒽𝓇𝑒𝓈𝓉𝒽𝒶 👋
+## 𝙷𝚎𝚕𝚕☯, 𝙸 𝚊𝚖 𝙿𝚛𝚊𝚜𝚑𝚊𝚗𝚊 𝚂𝚑𝚛𝚎𝚜𝚝𝚑𝚊 👋
 
 <!--
 **prashana-sht/prashana-sht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Loading today's quote...
+> If you let your head get too big, it'll break your neck.
 >
-> — Unknown
+> — Elvis Presley
 <!--END_SECTION:quote-->
