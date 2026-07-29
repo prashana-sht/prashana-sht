@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Be kind, for everyone you meet is fighting a harder battle.
+> If you let your head get too big, it'll break your neck.
 >
-> — Plato
+> — Elvis Presley
 <!--END_SECTION:quote-->
