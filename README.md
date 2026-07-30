@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> If you let your head get too big, it'll break your neck.
+> It isn't that they can't see the solution. It is that they can't see the problem.
 >
-> — Elvis Presley
+> — Gilbert Chesterton
 <!--END_SECTION:quote-->
