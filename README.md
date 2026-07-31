@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> It isn't that they can't see the solution. It is that they can't see the problem.
+> New beginnings are disguised as painful endings.
 >
-> — Gilbert Chesterton
+> — Lao Tzu
 <!--END_SECTION:quote-->
