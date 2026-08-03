@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> New beginnings are disguised as painful endings.
+> It all depends on what you choose to believe.
 >
-> — Lao Tzu
+> — Spencer Johnson
 <!--END_SECTION:quote-->
