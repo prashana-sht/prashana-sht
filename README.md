@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> It all depends on what you choose to believe.
+> Love never keeps a man from pursuing his destiny.
 >
-> — Spencer Johnson
+> — Paulo Coelho
 <!--END_SECTION:quote-->
