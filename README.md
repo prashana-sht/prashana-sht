@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Love never keeps a man from pursuing his destiny.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> — Paulo Coelho
+> — Epictetus
 <!--END_SECTION:quote-->
