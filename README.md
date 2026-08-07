@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Talk sense to a fool and he calls you foolish.
+> Ability is a poor man's wealth.
 >
-> — Euripides
+> — John Wooden
 <!--END_SECTION:quote-->
