@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Ability is a poor man's wealth.
+> Correct what you can. Learn from what you can't.
 >
-> — John Wooden
+> — Toni Morrison
 <!--END_SECTION:quote-->
