@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Correct what you can. Learn from what you can't.
+> Still your waters.
 >
-> — Toni Morrison
+> — Josh Waitzkin
 <!--END_SECTION:quote-->
