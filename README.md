@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Still your waters.
+> Sadness is but a wall between two gardens.
 >
-> — Josh Waitzkin
+> — Kahlil Gibran
 <!--END_SECTION:quote-->
