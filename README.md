@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Sadness is but a wall between two gardens.
+> Keep your face to the sunshine and you cannot see the shadows.
 >
-> — Kahlil Gibran
+> — Helen Keller
 <!--END_SECTION:quote-->
