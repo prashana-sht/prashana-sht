@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Keep your face to the sunshine and you cannot see the shadows.
+> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.
 >
-> — Helen Keller
+> — Gary Keller
 <!--END_SECTION:quote-->
