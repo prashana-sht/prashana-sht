@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.
+> Your happiness is what truly matters most. Do what you have to do in order to be happy.
 >
-> — Gary Keller
+> — Brian Tracy
 <!--END_SECTION:quote-->
