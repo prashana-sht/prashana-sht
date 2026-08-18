@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Your happiness is what truly matters most. Do what you have to do in order to be happy.
+> No one can compete with you on being you. Most of life is a search for who and what needs you the most.
 >
-> — Brian Tracy
+> — Naval Ravikant
 <!--END_SECTION:quote-->
