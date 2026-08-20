@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Why change? Everyone has his own style. When you have found it, you should stick to it.
+> No matter how tall the mountain is, it cannot block the sun.
 >
-> — Audrey Hepburn
+> — Chinese Proverb
 <!--END_SECTION:quote-->
