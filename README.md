@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> No matter how tall the mountain is, it cannot block the sun.
+> Listen to the secret sound, the real sound, which is inside you.
 >
-> — Chinese Proverb
+> — Kabir
 <!--END_SECTION:quote-->
