@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Listen to the secret sound, the real sound, which is inside you.
+> The quicker you let go of old cheese, the sooner you find new cheese.
 >
-> — Kabir
+> — Spencer Johnson
 <!--END_SECTION:quote-->
