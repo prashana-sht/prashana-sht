@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The quicker you let go of old cheese, the sooner you find new cheese.
+> Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.
 >
-> — Spencer Johnson
+> — Denis Waitley
 <!--END_SECTION:quote-->
