@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.
+> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.
 >
-> — Denis Waitley
+> — Charles Dickens
 <!--END_SECTION:quote-->
