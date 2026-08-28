@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.
+> Whatever you decide to do, make sure it makes you happy.
 >
-> — Richard Bach
+> — Paulo Coelho
 <!--END_SECTION:quote-->
