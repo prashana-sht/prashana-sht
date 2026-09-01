@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Whatever you decide to do, make sure it makes you happy.
+> Stop wasting time defending your problems and work on addressing them instead.
 >
-> — Paulo Coelho
+> — Celestine Chua
 <!--END_SECTION:quote-->
