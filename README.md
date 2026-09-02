@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Stop wasting time defending your problems and work on addressing them instead.
+> Force has no place where there is need of skill.
 >
-> — Celestine Chua
+> — Herodotus
 <!--END_SECTION:quote-->
