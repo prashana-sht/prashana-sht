@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Force has no place where there is need of skill.
+> If you don't find the time, if you don't do the work, you don't get the results.
 >
-> — Herodotus
+> — Arnold Schwarzenegger
 <!--END_SECTION:quote-->
