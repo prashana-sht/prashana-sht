@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Do good by stealth, and blush to find it fame.
+> The greatest treasures are those invisible to the eye but found by the heart.
 >
-> — Alexander Pope
+> — Judy Garland
 <!--END_SECTION:quote-->
