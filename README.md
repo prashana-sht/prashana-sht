@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The greatest treasures are those invisible to the eye but found by the heart.
+> High thoughts must have high language.
 >
-> — Judy Garland
+> — Aristophanes
 <!--END_SECTION:quote-->
