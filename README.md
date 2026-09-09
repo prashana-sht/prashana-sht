@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> High thoughts must have high language.
+> We are all like the bright moon, we still have our darker side.
 >
-> — Aristophanes
+> — Kahlil Gibran
 <!--END_SECTION:quote-->
