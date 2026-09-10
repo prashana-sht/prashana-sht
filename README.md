@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> We are all like the bright moon, we still have our darker side.
+> Simple words, repeated daily, can change your life.
 >
-> — Kahlil Gibran
+> — Maxime Lagace
 <!--END_SECTION:quote-->
