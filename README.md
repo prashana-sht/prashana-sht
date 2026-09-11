@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Simple words, repeated daily, can change your life.
+> It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.
 >
-> — Maxime Lagace
+> — Ming-Dao Deng
 <!--END_SECTION:quote-->
