@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.
+> If you spend too much time thinking about a thing, you'll never get it done.
 >
-> — Ming-Dao Deng
+> — Bruce Lee
 <!--END_SECTION:quote-->
