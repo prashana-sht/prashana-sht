@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> If you spend too much time thinking about a thing, you'll never get it done.
+> Knowing yourself is the beginning of all wisdom.
 >
-> — Bruce Lee
+> — Aristotle
 <!--END_SECTION:quote-->
