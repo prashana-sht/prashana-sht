@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> When things go wrong, don't go with them.
+> Till it has loved, no man or woman can become itself.
 >
-> — Elvis Presley
+> — Emily Dickinson
 <!--END_SECTION:quote-->
