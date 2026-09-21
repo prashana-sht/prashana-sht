@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Till it has loved, no man or woman can become itself.
+> The smallest act of kindness is worth more than the greatest intention.
 >
-> — Emily Dickinson
+> — Kahlil Gibran
 <!--END_SECTION:quote-->
