@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The smallest act of kindness is worth more than the greatest intention.
+> Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.
 >
-> — Kahlil Gibran
+> — Samuel Butler
 <!--END_SECTION:quote-->
