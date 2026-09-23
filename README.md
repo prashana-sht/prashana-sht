@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.
+> When we strive to become better than we are, everything around us becomes better, too.
 >
-> — Samuel Butler
+> — Paulo Coelho
 <!--END_SECTION:quote-->
