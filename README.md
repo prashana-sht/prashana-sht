@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> You are what you believe in. You become that which you believe you can become.
+> Give so much away people insist on paying you.
 >
-> — Bhagavad Gita
+> — Jack Butcher
 <!--END_SECTION:quote-->
