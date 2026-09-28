@@ -57,9 +57,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Give so much away people insist on paying you.
+> One mistake does not have to rule a person's entire life.
 >
-> — Jack Butcher
+> — Joyce Meyer
 <!--END_SECTION:quote-->
 
 ---
