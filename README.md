@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> One mistake does not have to rule a person's entire life.
+> Silence is a source of great strength.
 >
-> — Joyce Meyer
+> — Lao Tzu
 <!--END_SECTION:quote-->
 
 ---
