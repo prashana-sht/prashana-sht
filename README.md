@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Silence is a source of great strength.
+> If you've made a mistake, it's better just to laugh at it.
 >
-> — Lao Tzu
+> — Zen Proverb
 <!--END_SECTION:quote-->
 
 ---
