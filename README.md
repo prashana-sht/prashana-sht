@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> If you've made a mistake, it's better just to laugh at it.
+> I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
 >
-> — Zen Proverb
+> — Nelson Mandela
 <!--END_SECTION:quote-->
 
 ---
