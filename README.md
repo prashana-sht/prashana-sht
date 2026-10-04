@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> We are born from a quiet sleep, and we die to a calm awakening
+> Would you rather learn to deal with the truth now than be forced to do so later on?
 >
-> — Zhuangzi
+> — Celestine Chua
 <!--END_SECTION:quote-->
 
 ---
