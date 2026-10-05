@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Would you rather learn to deal with the truth now than be forced to do so later on?
+> Engage in those actions and thoughts that nurture the good qualities you want to have.
 >
-> — Celestine Chua
+> — Paramahansa Yogananda
 <!--END_SECTION:quote-->
 
 ---
