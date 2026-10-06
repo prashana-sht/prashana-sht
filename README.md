@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Engage in those actions and thoughts that nurture the good qualities you want to have.
+> A gentleman is one who puts more into the world than he takes out.
 >
-> — Paramahansa Yogananda
+> — George Bernard Shaw
 <!--END_SECTION:quote-->
 
 ---
