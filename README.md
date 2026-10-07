@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> A gentleman is one who puts more into the world than he takes out.
+> Be happy now, without reason - or you never will be at all.
 >
-> — George Bernard Shaw
+> — Dan Millman
 <!--END_SECTION:quote-->
 
 ---
