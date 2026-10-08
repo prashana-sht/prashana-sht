@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Be happy now, without reason - or you never will be at all.
+> Success is not how high you have climbed, but how you make a positive difference to the world.
 >
-> — Dan Millman
+> — Roy T. Bennett
 <!--END_SECTION:quote-->
 
 ---
