@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Success is not how high you have climbed, but how you make a positive difference to the world.
+> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.
 >
-> — Roy T. Bennett
+> — Ray Bradbury
 <!--END_SECTION:quote-->
 
 ---
