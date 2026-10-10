@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.
+> Ability is a poor man's wealth.
 >
-> — Ray Bradbury
+> — John Wooden
 <!--END_SECTION:quote-->
 
 ---
