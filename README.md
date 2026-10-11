@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Ability is a poor man's wealth.
+> You only live once, but if you do it right, once is enough.
 >
-> — John Wooden
+> — Mae West
 <!--END_SECTION:quote-->
 
 ---
