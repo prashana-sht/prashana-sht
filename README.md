@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> You only live once, but if you do it right, once is enough.
+> Life can be the scariest and most beautiful thing simultaneously.
 >
-> — Mae West
+> — Maxime Lagace
 <!--END_SECTION:quote-->
 
 ---
