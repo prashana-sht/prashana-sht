@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Life can be the scariest and most beautiful thing simultaneously.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> — Maxime Lagace
+> — Thomas Edison
 <!--END_SECTION:quote-->
 
 ---
