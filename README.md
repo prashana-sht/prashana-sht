@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> Everything eaten is killed. Every meal is a sacrifice.
 >
-> — Thomas Edison
+> — Adi Da Samraj
 <!--END_SECTION:quote-->
 
 ---
