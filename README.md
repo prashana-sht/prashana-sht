@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Everything eaten is killed. Every meal is a sacrifice.
+> As we first succeed, we will find ourselves in new situations, facing new problems.
 >
-> — Adi Da Samraj
+> — Ryan Holiday
 <!--END_SECTION:quote-->
 
 ---
