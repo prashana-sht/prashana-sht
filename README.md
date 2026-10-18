@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> You've got to get up every morning with determination if you're going to go to bed with satisfaction.
+> The greater the impact you want to make, the greater your influence needs to be.
 >
-> — George Lorimer
+> — Lolly Daskal
 <!--END_SECTION:quote-->
 
 ---
