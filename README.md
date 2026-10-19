@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The greater the impact you want to make, the greater your influence needs to be.
+> The secret of change is to focus all your energy not on fighting the old, but on building the new.
 >
-> — Lolly Daskal
+> — Colin R. Davis
 <!--END_SECTION:quote-->
 
 ---
