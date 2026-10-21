@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Success is about doing the right thing, not about doing everything right.
+> Each day your life grows a day shorter. Make every move count.
 >
-> — Gary Keller
+> — Ming-Dao Deng
 <!--END_SECTION:quote-->
 
 ---
