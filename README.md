@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Each day your life grows a day shorter. Make every move count.
+> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
 >
-> — Ming-Dao Deng
+> — Mark Twain
 <!--END_SECTION:quote-->
 
 ---
