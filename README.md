@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.
+> If someone betrays you once, it's their fault; if they betray you twice, it's your fault.
 >
-> — Mark Twain
+> — Eleanor Roosevelt
 <!--END_SECTION:quote-->
 
 ---
