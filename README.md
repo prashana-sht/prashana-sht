@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> If someone betrays you once, it's their fault; if they betray you twice, it's your fault.
+> There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.
 >
-> — Eleanor Roosevelt
+> — Henry Ward Beecher
 <!--END_SECTION:quote-->
 
 ---
