@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.
+> The wiser you get, the less you care to look like a fool.
 >
-> — Henry Ward Beecher
+> — Maxime Lagace
 <!--END_SECTION:quote-->
 
 ---
