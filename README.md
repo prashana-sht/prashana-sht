@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.
+> Still your waters.
 >
-> — Dalai Lama
+> — Josh Waitzkin
 <!--END_SECTION:quote-->
 
 ---
