@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Still your waters.
+> What we dwell on is who we become.
 >
-> — Josh Waitzkin
+> — Oprah Winfrey
 <!--END_SECTION:quote-->
 
 ---
