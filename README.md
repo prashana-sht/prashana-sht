@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> What we dwell on is who we become.
+> The more reasons you have for achieving your goal, the more determined you will become.
 >
-> — Oprah Winfrey
+> — Brian Tracy
 <!--END_SECTION:quote-->
 
 ---
