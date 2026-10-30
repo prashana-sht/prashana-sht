@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The more reasons you have for achieving your goal, the more determined you will become.
+> Distant water does not put out a nearby fire.
 >
-> — Brian Tracy
+> — Chinese Proverb
 <!--END_SECTION:quote-->
 
 ---
