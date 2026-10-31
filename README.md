@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Distant water does not put out a nearby fire.
+> When you believe in a thing, believe in it all the way, implicitly and unquestionable.
 >
-> — Chinese Proverb
+> — Walt Disney
 <!--END_SECTION:quote-->
 
 ---
