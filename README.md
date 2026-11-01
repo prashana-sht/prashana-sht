@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> When you believe in a thing, believe in it all the way, implicitly and unquestionable.
+> When something comes from within, when it is a part of you, you have no choice but to live it, to express it.
 >
-> — Walt Disney
+> — Kamal Ravikant
 <!--END_SECTION:quote-->
 
 ---
