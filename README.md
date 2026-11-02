@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> When something comes from within, when it is a part of you, you have no choice but to live it, to express it.
+> If you want others to be happy, practice compassion. If you want to be happy, practice compassion.
 >
-> — Kamal Ravikant
+> — Dalai Lama
 <!--END_SECTION:quote-->
 
 ---
