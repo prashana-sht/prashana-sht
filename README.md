@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> If you want others to be happy, practice compassion. If you want to be happy, practice compassion.
+> When the time is gone, you can never get it back.
 >
-> — Dalai Lama
+> — Stephen King
 <!--END_SECTION:quote-->
 
 ---
