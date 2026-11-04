@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> When the time is gone, you can never get it back.
+> What the eye doesn't see and the mind doesn't know, doesn't exist.
 >
-> — Stephen King
+> — D. H. Lawrence
 <!--END_SECTION:quote-->
 
 ---
