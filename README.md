@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> What the eye doesn't see and the mind doesn't know, doesn't exist.
+> Debt is the slavery of the free.
 >
-> — D. H. Lawrence
+> — Publilius Syrus
 <!--END_SECTION:quote-->
 
 ---
