@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Debt is the slavery of the free.
+> Your mind is infinite, it's your doubts that are limiting.
 >
-> — Publilius Syrus
+> — Robert Kiyosaki
 <!--END_SECTION:quote-->
 
 ---
