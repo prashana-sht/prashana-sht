@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Your mind is infinite, it's your doubts that are limiting.
+> The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.
 >
-> — Robert Kiyosaki
+> — Kamal Ravikant
 <!--END_SECTION:quote-->
 
 ---
