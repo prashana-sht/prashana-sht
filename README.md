@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.
+> Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.
 >
-> — Dale Carnegie
+> — Colin Powell
 <!--END_SECTION:quote-->
 
 ---
