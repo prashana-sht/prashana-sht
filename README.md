@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> In the practice of tolerance, one's enemy is the best teacher.
+> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
 >
-> — Dalai Lama
+> — John Tukey
 <!--END_SECTION:quote-->
 
 ---
