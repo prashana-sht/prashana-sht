@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.
+> There is nothing more frightful than ignorance in action.
 >
-> — John Tukey
+> — Johann Wolfgang von Goethe
 <!--END_SECTION:quote-->
 
 ---
