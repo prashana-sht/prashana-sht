@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> There is nothing more frightful than ignorance in action.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> — Johann Wolfgang von Goethe
+> — Mahatma Gandhi
 <!--END_SECTION:quote-->
 
 ---
