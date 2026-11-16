@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> The weak can never forgive. Forgiveness is the attribute of the strong.
+> I dream my painting and I paint my dream.
 >
-> — Mahatma Gandhi
+> — Vincent van Gogh
 <!--END_SECTION:quote-->
 
 ---
