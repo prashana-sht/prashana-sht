@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> I dream my painting and I paint my dream.
+> If you can't argue both sides, you can't argue.
 >
-> — Vincent van Gogh
+> — Jack Butcher
 <!--END_SECTION:quote-->
 
 ---
