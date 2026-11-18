@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> If you can't argue both sides, you can't argue.
+> Silence is a source of great strength.
 >
-> — Jack Butcher
+> — Lao Tzu
 <!--END_SECTION:quote-->
 
 ---
