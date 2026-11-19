@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Silence is a source of great strength.
+> You are never too old to become younger.
 >
-> — Lao Tzu
+> — Mae West
 <!--END_SECTION:quote-->
 
 ---
