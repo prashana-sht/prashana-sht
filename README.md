@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> You are never too old to become younger.
+> Never waste a minute of your precious life thinking about people you don't like.
 >
-> — Mae West
+> — Celestine Chua
 <!--END_SECTION:quote-->
 
 ---
