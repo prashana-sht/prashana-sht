@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Never waste a minute of your precious life thinking about people you don't like.
+> To avoid criticism, do nothing, say nothing, and be nothing.
 >
-> — Celestine Chua
+> — Elbert Hubbard
 <!--END_SECTION:quote-->
 
 ---
