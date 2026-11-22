@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> To avoid criticism, do nothing, say nothing, and be nothing.
+> Peace is not the absence of conflict, but the ability to cope with it.
 >
-> — Elbert Hubbard
+> — Unknown
 <!--END_SECTION:quote-->
 
 ---
