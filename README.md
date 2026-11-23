@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Peace is not the absence of conflict, but the ability to cope with it.
+> Have a vision. Be demanding.
 >
-> — Unknown
+> — Colin Powell
 <!--END_SECTION:quote-->
 
 ---
