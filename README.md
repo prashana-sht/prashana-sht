@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Have a vision. Be demanding.
+> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.
 >
-> — Colin Powell
+> — Robert Kiyosaki
 <!--END_SECTION:quote-->
 
 ---
