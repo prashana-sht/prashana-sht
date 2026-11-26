@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> We have to live life with a sense of urgency so not a minute is wasted.
+> Keep your eyes on the stars, but remember to keep your feet on the ground.
 >
-> — Les Brown
+> — Theodore Roosevelt
 <!--END_SECTION:quote-->
 
 ---
