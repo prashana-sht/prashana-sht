@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> Keep your eyes on the stars, but remember to keep your feet on the ground.
+> It takes half your life before you discover life is a do-it-yourself project.
 >
-> — Theodore Roosevelt
+> — Napoleon Hill
 <!--END_SECTION:quote-->
 
 ---
