@@ -52,9 +52,9 @@ Pair Extraordinaire ×3 &nbsp;•&nbsp; Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbs
 ## 💭 Quote of the Day
 
 <!--START_SECTION:quote-->
-> It takes half your life before you discover life is a do-it-yourself project.
+> High thoughts must have high language.
 >
-> — Napoleon Hill
+> — Aristophanes
 <!--END_SECTION:quote-->
 
 ---
